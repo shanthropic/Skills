@@ -1,5 +1,5 @@
 ---
-name: video-to-prompt-creator
+name: video-to-prompt
 description: Use this skill whenever the user wants to analyze a video, recreate an existing video using AI, extract a prompt from a video, or replace characters/elements in a video using reference images. This skill helps generate highly detailed AI video and audio generation prompts with perfectly synchronized sound and motion.
 ---
 
